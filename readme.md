@@ -40,6 +40,3 @@ git clone https://github.com/adisthya/enigmacamp-web-design-html-cv.git
 <a href="https://www.w3schools.com/html/" title="HTML" rel="nofollow">
   <img src="https://www.w3.org/html/logo/img/mark-word-icon.png" height="50" alt="HTML" />
 </a>
-
-
-Training Web Design From Enigmacamp mentor
