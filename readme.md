@@ -7,7 +7,7 @@
 Untuk memulai, `clone` terlebih dahulu *repository* ini atau [unduh berkas](https://github.com/adisthya/enigmacamp-web-design-html-cv/archive/master.zip) `zip` secara langsung dari halaman ini.
 
 ```language
-git clone https://github.com/adisthya/enigmacamp-web-design-html-cv.git
+git clone https://github.com/kvn-media/enigmacamp-web-design-html-cv-master.git
 ```
 
 ## Keterangan
